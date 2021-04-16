@@ -10,6 +10,8 @@ from random import randint
 import turtle
 import time
 
+#Esta parte del código lo saque de este vídeo: https://www.youtube.com/watch?v=tXH-cY7N5bg&t=2s
+
 def statudes():
     ##-------- SCREEN SETUP --------##
     setup(600, 500)
